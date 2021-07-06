@@ -37,3 +37,30 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-item{
+    box-shadow: 10px 10px 20px greenyellow;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.Experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#wev-dev-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient green, cyan;
+    border-image-slice: 1;
+}
+#wev-mac-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient purple, tomato;
+    border-image-slice: 1;
+
+}
+footer p{
+    text-align: center;
+}
